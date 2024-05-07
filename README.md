@@ -14,14 +14,16 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 ![alt text](/images/CustomerSales.jpg)
 
  ## Data Sources
-[**customer.csv**](data/dim_customer.csv)      [**countries.csv**](data/dim_market.csv)    [**products.csv**](data/dim_product.csv)
+[**customer.csv**](data/dim_customer.csv)  
+[**countries.csv**](data/dim_market.csv)    
+[**products.csv**](data/dim_product.csv)
 [**sales monthly data.csv**](data/fact_sales_monthly.csv)
 
  ## Tools 
  - csv excel imports
  - Data Cleaning
- - Power Query and Pivot tables
- - Joining tables, Power Pivot, DAX functions
+ - Join tables using Power Query
+ - Pivot tables, Power Pivot, DAX functions
  - Conditional formattings.
 
  ## Sales Report
