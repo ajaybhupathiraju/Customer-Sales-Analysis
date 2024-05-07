@@ -44,7 +44,7 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
  
 1. The top 10 customers based on the percentage increase in their net sales from 2020 to 2021 ?
    
- ![alt text](/images/top_10_increase_netsales_2020_2021.jpg)
+ ![alt text](/images/Top10_Netsales_increased_2020_21.jpg)
 
 
 2. What are the top 5 countries in terms of net sales in 2021?
