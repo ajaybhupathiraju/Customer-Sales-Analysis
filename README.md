@@ -27,14 +27,15 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
  - Conditional formattings.
 
  ## Sales Report
- 1. import data -> from text/csv.
- 2. remove duplicate data, replace null values.
+ 1. Import data -> from text/csv.
+ 2. Remove duplicates, replace null values in data.
  3. Using power query transform data and create a fiscal year "YYYY" to compute net sales.
- 4. join tables product_code,customer_code,date and markets.
- 5. Using DAX formula create 2019 net sales,2020 net sales and 2021 net sales.
- 6. Create a pivot table with country and region as filters, rows -> country and customer
-    values -> "2019 net sales","2020 net sales","2021 net sales".
-7. apply conditional format.
+ 4. Join tables product_code,customer_code,date and markets.
+ 5. Using DAX formula created "2019 net sales","2020 net sales" and "2021 net sales".
+ 6. Create a pivot table with country and region as filters
+    rows -> country and customer
+    values -> "2019 net sales","2020 net sales","2021 net sales" and "2020 vs 2021".
+8. apply conditional format.
 
    [view sales report pdf](https://github.com/ajaybhupathiraju/Customer-Sales-Analysis/blob/main/CustomerSales.pdf)
 
