@@ -47,7 +47,7 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
  ![alt text](/images/Top10_Netsales_increased_2020_21.jpg)
 
 
-2. What are the top 5 countries in terms of net sales in 2021?
+2. What are the top 5 customers in terms of net sales in 2021?
 
    | Customer        | 2021 NetSales (in millions)|
    | -------------   | -------------              |
@@ -62,3 +62,14 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
    | Customer        | 2020 NetSales (in millions) |2021 NetSales (in millions) |
    | -------------   | -------------               |-------------               |
    | Nova            |  0                          | 0.4                        |
+
+4. What are the top 5 countries in terms of net sales in 2021?
+
+   | Country         | 2021 NetSales (in millions)|
+   | -------------   | -------------              |
+   | India           | 161.3                      |
+   | USA             | 87.8                       |
+   | South Korea     | 49.0                       |
+   | Canada          | 35.1                       |
+   | United Kingdom  | 34.2                       |
+   
