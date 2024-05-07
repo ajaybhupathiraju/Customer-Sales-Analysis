@@ -47,14 +47,11 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 
 
 2. What are the top 5 countries in terms of net sales in 2021?
-   **Customer	          2021 NetSales ($ millions)**
-   
-   Amazon	            82.1M
-   
-   AtliQ Exclusive	   61.1M
-   
-   AtliQ e Store	     53.0M
-   
-   Sage	              20.7M
-   
-   Flipkart	          19.3M
+
+| Customer        | 2021 NetSales ($ millions) |
+| -------------   | -------------              |
+| Amazon          | 82.1M                      |
+| AtliQ Exclusive | 61.1M                      |
+| AtliQ e Store   | 53.0M                      |
+| Sage	           | 20.7M                      |
+| Flipkart        | 19.3M                      |
