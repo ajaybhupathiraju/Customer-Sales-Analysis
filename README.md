@@ -1,4 +1,4 @@
-# Customer-Sales-Analysis
+![image](https://github.com/ajaybhupathiraju/Customer-Sales-Analysis/assets/83897372/fc3d10e5-6ca2-4b50-a401-1b0c4b16b755)# Customer-Sales-Analysis
 
 - [Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -44,3 +44,12 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 1. The top 10 products based on the percentage increase in their net sales from 2020 to 2021 ?
    
  ![alt text](/images/top_10_increase_netsales_2020_2021.jpg)
+
+
+2. What are the top 5 countries in terms of net sales in 2021?
+   **Customer	          2021 NetSales ($ millions)**
+   Amazon	            82.1M
+   AtliQ Exclusive	   61.1M
+   AtliQ e Store	     53.0M
+   Sage	              20.7M
+   Flipkart	          19.3M
