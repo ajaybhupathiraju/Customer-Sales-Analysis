@@ -27,6 +27,7 @@ AtliQ is a hardware manufacture company that produces electronics items. AtliQ p
 
  ## Tools 
  - csv excel imports
+ - Data Cleaning
  - Power Query and Pivot tables
  - Joining tables, Power Pivot, DAX functions
  - Conditional formattings.
