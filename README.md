@@ -38,7 +38,6 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 
    [view sales report pdf](https://github.com/ajaybhupathiraju/Customer-Sales-Analysis/blob/main/CustomerSales.pdf)
 
-   [source code](https://github.com/ajaybhupathiraju/Customer-Sales-Analysis/blob/main/CustomerSales.pdf)
 
  ## Observations
 1. The top 10 products based on the percentage increase in their net sales from 2020 to 2021 ?
