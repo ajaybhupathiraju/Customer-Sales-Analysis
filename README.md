@@ -16,7 +16,7 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
  ## Data Sources
 [**customer.csv**](data/dim_customer.csv)  
 [**countries.csv**](data/dim_market.csv)    
-[**products.csv**](data/dim_product.csv)
+[**products.csv**](data/dim_product.csv)  
 [**sales monthly data.csv**](data/fact_sales_monthly.csv)
 
  ## Tools 
