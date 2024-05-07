@@ -40,6 +40,7 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 
 
  ## Observations
+ 
 1. The top 10 customers based on the percentage increase in their net sales from 2020 to 2021 ?
    
  ![alt text](/images/top_10_increase_netsales_2020_2021.jpg)
@@ -47,7 +48,7 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 
 2. What are the top 5 countries in terms of net sales in 2021?
 
-   | Customer        | 2021 NetSales ($ millions) |
+   | Customer        | 2021 NetSales (in millions)|
    | -------------   | -------------              |
    | Amazon          | 82.1                       |
    | AtliQ Exclusive | 61.1                       |
@@ -55,8 +56,8 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
    | Sage	           | 20.7                       |
    | Flipkart        | 19.3                       |
 
-3. What are the new products that began selling in 2021?
+3. What are the new products that AtliQ began selling in 2021?
    
-   | Customer        | 2020 NetSales ($ millions) |2021 NetSales ($ millions) |
-   | -------------   | -------------              |-------------              |
-   | Nova            |  0                         | 0.4                       |
+   | Customer        | 2020 NetSales (in millions) |2021 NetSales (in millions) |
+   | -------------   | -------------               |-------------               |
+   | Nova            |  0                          | 0.4                        |
