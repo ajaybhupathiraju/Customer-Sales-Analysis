@@ -8,7 +8,7 @@
 
  ## Overview
 
-![alt text](images/CustomerSales.jpg.jpg)
+![alt text](/images/CustomerSales.jpg)
 
  ## Data Sources
 [**customer**](data/dim_customer.csv)  
