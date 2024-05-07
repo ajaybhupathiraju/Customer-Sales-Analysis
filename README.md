@@ -40,20 +40,20 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 
 
  ## Observations
-1. The top 10 products based on the percentage increase in their net sales from 2020 to 2021 ?
+1. The top 10 customers based on the percentage increase in their net sales from 2020 to 2021 ?
    
  ![alt text](/images/top_10_increase_netsales_2020_2021.jpg)
 
 
 2. What are the top 5 countries in terms of net sales in 2021?
 
-| Customer        | 2021 NetSales ($ millions) |
-| -------------   | -------------              |
-| Amazon          | 82.1                       |
-| AtliQ Exclusive | 61.1                       |
-| AtliQ e Store   | 53.0                       |
-| Sage	           | 20.7                       |
-| Flipkart        | 19.3                       |
+   | Customer        | 2021 NetSales ($ millions) |
+   | -------------   | -------------              |
+   | Amazon          | 82.1                       |
+   | AtliQ Exclusive | 61.1                       |
+   | AtliQ e Store   | 53.0                       |
+   | Sage	           | 20.7                       |
+   | Flipkart        | 19.3                       |
 
 3. What are the new products that began selling in 2021?
    
