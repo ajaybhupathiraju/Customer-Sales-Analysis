@@ -1,6 +1,6 @@
 Customer-Sales-Analysis
 
-- [Overview](#project-overview)
+- [Overview](#overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Sales Report](#sales-report)
