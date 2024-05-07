@@ -12,7 +12,7 @@ AtliQ is a hardware manufacture company that produces electronics items. AtliQ p
 2. Company Owned Retail outlets
 3. Through an intermediate distributor
 
-Generated a [sales report](/CustomerSales.pdf) shows country wide net sales for a customer, and compare last year's sales with the current year's sales
+Generated a [sales report]([/CustomerSales.pdf](https://github.com/ajaybhupathiraju/Customer-Sales-Analysis/blob/main/CustomerSales.pdf) shows country wide net sales for a customer, and compare last year's sales with the current year's sales
    
    
 ![alt text](/images/CustomerSales.jpg)
