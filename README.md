@@ -9,7 +9,7 @@ Customer-Sales-Analysis
  ## Overview
 A hardware manufacturing company that produces electronics items. Its products reach end consumers via 3 different channels, like retailers, company-owned retail outlets and a distributor.
 
-We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Analysis/blob/main/CustomerSales.pdf) that shows countrywide net sales for a customer, and compares last year's sales with current year's sales.   
+We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Analysis/blob/main/CustomerSales.pdf) that shows countrywide net sales for a customer, and compares last year's sales with current year's sales, compute % of revenus increase, top n countries in sales growth etc.  
    
 ![alt text](/images/CustomerSales.jpg)
 
