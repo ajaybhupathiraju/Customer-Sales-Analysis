@@ -8,6 +8,8 @@
 
  ## Overview
 
+![alt text](images/CustomerSales.jpg.jpg)
+
  ## Data Sources
 [**customer**](data/dim_customer.csv)  
 
