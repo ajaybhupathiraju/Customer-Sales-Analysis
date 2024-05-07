@@ -7,7 +7,13 @@
 - [Observations](#observations)
 
  ## Overview
+AtliQ is a hardware manufacture company that produces electronics items. AtliQ products reaches end consumers via 3 different channels like
+1. Retailer [both physical and E-Commerce platforms]
+2. Company Owned Retail outlets
+3. Through an intermediate distributor
 
+   
+   
 ![alt text](/images/CustomerSales.jpg)
 
  ## Data Sources
