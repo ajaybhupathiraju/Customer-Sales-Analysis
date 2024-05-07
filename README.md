@@ -50,8 +50,14 @@ We build a [sales report](https://github.com/ajaybhupathiraju/Customer-Sales-Ana
 
 | Customer        | 2021 NetSales ($ millions) |
 | -------------   | -------------              |
-| Amazon          | 82.1M                      |
-| AtliQ Exclusive | 61.1M                      |
-| AtliQ e Store   | 53.0M                      |
-| Sage	           | 20.7M                      |
-| Flipkart        | 19.3M                      |
+| Amazon          | 82.1                       |
+| AtliQ Exclusive | 61.1                       |
+| AtliQ e Store   | 53.0                       |
+| Sage	           | 20.7                       |
+| Flipkart        | 19.3                       |
+
+3. What are the new products that began selling in 2021?
+   
+   | Customer        | 2020 NetSales ($ millions) |2021 NetSales ($ millions) |
+   | -------------   | -------------              |-------------              |
+   | Nova            |  0                         | 0.4                       |
