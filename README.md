@@ -9,7 +9,14 @@
  ## Overview
 
  ## Data Sources
-[**view data**](HeartDiesease.csv)
+[**customer**](data/dim_customer.csv)  
+
+[**countries**](data/dim_market.csv)
+
+[**products**](data/dim_product.csv)
+
+[**sales monthly data**](data/fact_sales_monthly.csv)
+
  ## Tools 
  - csv excel imports
  - Power Query and Pivot tables
