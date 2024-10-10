@@ -1,4 +1,4 @@
-## Customer-Sales-Analysis
+# Customer-Sales-Analysis
 A data-driven approach to understanding sales trends, customer behavior, and business performance.
 
 ## Table of Contents
